@@ -1,13 +1,17 @@
+.classComp {
+  font-size: 40px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  border: 1px red solid;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
 .arrowComp {
+  font-size: 40px;
   color: green;
   text-align: center;
   border: 1px green solid;
-  border-radius: 5px;
-}
-
-.classComp {
-  color: red;
-  text-align: center;
-  border: 1px red solid;
   border-radius: 5px;
 }

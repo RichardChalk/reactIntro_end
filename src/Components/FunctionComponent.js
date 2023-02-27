@@ -1,5 +1,5 @@
 import React from "react";
 
 export const FunctionComponent = () => {
-  return <div>FunctionComponent</div>;
+  return <div className="arrowComp">FunctionComponent</div>;
 };
