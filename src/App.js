@@ -7,8 +7,11 @@ function App() {
     <div>
       <ClassComponent />
       <FunctionComponent />
-      <Person name={"Richard"} surName={"Chalk"} age={"52"} />
-      <Person name={"Linda"} surName={"Chalk"} age={"47"} />
+      <div className="personContainer">
+        <Person name={"Richard"} surName={"Chalk"} age={"52"} />
+        <Person name={"Linda"} surName={"Chalk"} age={"47"} />
+        <Person name={"Tony"} surName={"Stark"} age={"48"} />
+      </div>
     </div>
   );
 }
